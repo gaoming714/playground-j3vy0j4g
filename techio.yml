@@ -3,12 +3,12 @@ plan:
 - title: Welcome
   statement: markdowns/welcome.md
 projects:
-  python:
+-  python:
     root: /python-project
     runner:
       name: python
       version: '3'
-  angular:
+-  angular:
     root: /vuejs-project # Set the root path to your angular project
     # Set the docker image. This image runs npm install for you on every build
     runner:
