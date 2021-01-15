@@ -11,6 +11,11 @@ The source code is on [GitHub](https://github.com/TechDotIO/python-template), pl
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
+@[Sample Vue.js App]({"stubs": ["index.html", "main.js"], "command": "/bin/bash run.sh"})
+
+Check out the markdown file welcome.md to see how this exercise is injected into the template.
+
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/python-template/blob/master/markdowns/welcome.md)
