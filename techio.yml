@@ -8,3 +8,9 @@ projects:
     runner:
       name: python
       version: '3'
+  angular:
+    root: /vuejs-project # Set the root path to your angular project
+    # Set the docker image. This image runs npm install for you on every build
+    runner:
+      name: zimdo/docker-vuejs
+      version: latest
